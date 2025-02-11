@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Avenir", sans-serif;
+}
+p {
+  text-align: center;
+  padding: 30px;
+  line-height: 30px;
+}

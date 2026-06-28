@@ -1,8 +1,48 @@
 {
   "links": {
-    "privacy_policy_link": "https://paranotes.app/#/privacy-policy",
+    "privacy_policy_link": "https://techwithtalal.com/projects/eventry/privacy-policy.html",
     "terms_of_use_link": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
   },
+  "version_history": [
+    {
+      "number": "1.3.1",
+      "changes": ["Fixed an issue where events were not appearing"]
+    },
+    {
+      "number": "1.3",
+      "changes": [
+        "Replaced the add event input bar with a floating button",
+        "Added the ability to pick a colorful icon for each event",
+        "Added the ability to export and import events as a CSV file",
+        "Added the ability to set event dates by typing a number of days",
+        "Added home screen widgets",
+        "Made additional improvements and refinements"
+      ]
+    },
+    {
+      "number": "1.2",
+      "changes": [
+        "Fixed an issue where the keyboard stayed open after adding an event",
+        "Added the ability to edit events",
+        "Added Settings",
+        "Added a weekday display toggle",
+        "Added the ability to combine multiple filters",
+        "Added the ability to adjust event list density",
+        "Made additional improvements and refinements"
+      ]
+    },
+    {
+      "number": "1.1",
+      "changes": [
+        "Updated date format to follow regional settings",
+        "Fixed an issue with date calculations",
+        "Fixed an issue with how events were sorted",
+        "Added a sort button to reverse event order",
+        "Updated how event counters are displayed",
+        "Made additional improvements and refinements"
+      ]
+    }
+  ],
   "icon_names": [
     "heart.fill",
     "creditcard.fill",
